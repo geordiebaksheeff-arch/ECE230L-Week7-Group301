@@ -12,7 +12,7 @@ In this lab you've learned the basics of number theory as it relates to subtract
 | Question 3 | Your answers to the question | 25% |
 
 ## Names
-Geordie Baksheeff
+Geordie Baksheeff and Erick Beltran
 
 ## Summary
 

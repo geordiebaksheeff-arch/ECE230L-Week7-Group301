@@ -12,8 +12,12 @@ In this lab you've learned the basics of number theory as it relates to subtract
 | Question 3 | Your answers to the question | 25% |
 
 ## Names
+Geordie Baksheeff
 
 ## Summary
+
+Learn how to implement binary subtraction, one's complement and two complement circuits in verilog.
+
 
 ## Lab Questions
 

@@ -32,5 +32,5 @@ End around carry turns the circuit into a loop where the carry in on the LSB is 
 
 ### 3 - What is the edge case and problem with Two’s Complement number representation?
 
-
+Two's complement is not symmetrical, so when trying to represent the most negative number it causes an overflow as the range is one unit longer in the negative direction than positive.
 

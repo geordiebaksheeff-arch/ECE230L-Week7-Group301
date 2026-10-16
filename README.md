@@ -28,6 +28,9 @@ For the half subtractor, it's when A is 0 and B is 1. The subtracted number will
 
 ### 2 - What about the end around carry of One’s Complement makes it hard to use and implement?
 
+End around carry turns the circuit into a loop where the carry in on the LSB is reliant on the carry out of the MSB. 
 
 ### 3 - What is the edge case and problem with Two’s Complement number representation?
+
+
 
